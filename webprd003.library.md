@@ -8,3 +8,4 @@ SANs:
 - findingaids.library.emory.edu
 - keep.library.emory.edu
 - pid.emory.edu
+- repose.library.emory.edu
